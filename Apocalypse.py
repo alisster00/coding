@@ -17,6 +17,7 @@ def sing_lyric(lyric, delay, speed):
     animate_text(lyric, speed)
 
 def sing_song():
+    
     lyrics = [
         ("\n""Got the music in you, baby", 0.09),
         ("Tell me why", 0.06),
